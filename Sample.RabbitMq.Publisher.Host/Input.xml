@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <record value="1" type="red"/>
+  <record value="2" type="green"/>
+  <record value="3" type="red"/>
+  <record value="4" type="blue"/>
+  <record value="5" type="green"/>
+  <record value="6" type="blue"/>
+</data>
